@@ -1,0 +1,41 @@
+# Biostatistics & Epidemiology Admission Portfolio
+
+An applied biostatistics and epidemiology portfolio demonstrating statistical analysis, epidemiological modelling, data visualization, and time-series forecasting using Python.
+
+## Features
+
+- Epidemiological data analysis
+- Descriptive statistics
+- Hypothesis testing
+- Logistic regression
+- Risk-factor analysis
+- Interactive visualizations
+- SIR infectious disease modelling
+- Time-series forecasting
+- Streamlit interactive dashboard
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- SciPy
+- Statsmodels
+- Scikit-learn
+- Plotly
+- Streamlit
+
+## Project Purpose
+
+This project was developed as an academic portfolio to demonstrate quantitative reasoning, statistical programming, epidemiological analysis, and computational modelling relevant to biostatistics and epidemiology.
+
+## Important Note
+
+The demonstration dataset used by this application is synthetic and is intended for educational and portfolio purposes only. It does not represent real clinical or public-health data.
+
+## Run Locally
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
